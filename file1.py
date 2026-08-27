@@ -1,7 +1,4 @@
-
-
-
-
-print("Addition",a+b)
+print("Addition",8+4)
 print("Subtraction",17-4)
 print("Multiplication",4*5)
+print("Division",8/4)
