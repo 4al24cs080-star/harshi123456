@@ -1,4 +1,5 @@
 print("Addition",8+4)
 print("Subtraction",17-4)
 print("Multiplication",4*5)
-print("Division",8/4)
+print("Division",8/4)git 
+print("Modulo",10 % 3)
